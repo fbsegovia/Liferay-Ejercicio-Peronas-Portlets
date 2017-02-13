@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="serviciopersonas.model.Persona">
+		<field name="dni" type="String" />
+		<field name="nombre" type="String" />
+		<field name="edad" type="int" />
+	</model>
+</model-hints>

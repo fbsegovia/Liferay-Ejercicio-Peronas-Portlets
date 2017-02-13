@@ -1,0 +1,9 @@
+Bundle-Name: ServicioPersonas-api
+Bundle-SymbolicName: serviciopersonas.api
+Bundle-Version: 1.0.0-SNAPSHOT
+Export-Package:\
+	serviciopersonas.exception,\
+	serviciopersonas.model,\
+	serviciopersonas.service,\
+	serviciopersonas.service.persistence
+-includeresource: META-INF/service.xml=../ServicioPersonas-service/service.xml
